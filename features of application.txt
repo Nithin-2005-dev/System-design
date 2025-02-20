@@ -1,0 +1,18 @@
+features of application:-(example quora)
+1)create/post a question
+2)answer questions
+3)comments/replies
+4)up votes +down votes
+5)multimedia
+6)search->questions
+        ->answers
+        ->users
+        ->topics
+7)follow->users
+        ->questions
+        ->topics
+8)topics
+9)newsfeed->relevence
+                ->connection strength(users/topics)
+          ->recency
+          ->popular

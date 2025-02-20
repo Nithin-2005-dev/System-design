@@ -1,0 +1,5 @@
+the four steps of system designing are:-
+1)features
+2)estimate scale
+3)trade offs
+4)design
